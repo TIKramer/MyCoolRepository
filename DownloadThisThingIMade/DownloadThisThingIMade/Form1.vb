@@ -8,10 +8,9 @@
         ListBox1.Items.Add("Thomas")
         ' ListBox1.Items.Add("Your Name")
         ListBox1.Items.Add("Joshua <]8^)")
+        ListBox1.Items.Add("Sai-Akuto")
     End Sub
 
-  
-    Private Sub ListBox1_SelectedIndexChanged(sender As Object, e As EventArgs) Handles ListBox1.SelectedIndexChanged
 
-    End Sub
+
 End Class
